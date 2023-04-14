@@ -2,8 +2,6 @@ import BarChart from '@/components/BarChart'
 import Header from '@/components/Header'
 import RecentOrders from '@/components/RecentOrders'
 import TopCards from '@/components/TopCards'
-import Image from 'next/image'
-
 
 export default function Home() {
   return (
