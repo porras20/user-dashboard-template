@@ -20,17 +20,17 @@ Puedes clonar este repositorio y utilizarlo como punto de partida para tu propio
 
 1. Clona el repositorio en tu máquina local:
 
-git clone https://github.com/porras20/user-dashboard-template.git
+ `git clone https://github.com/porras20/user-dashboard-template.git`
 
 2. Instala las dependencias del proyecto:
 
 cd user-dashboard-template
-npm install
+`npm install`
 
 
 3. Inicia la aplicación en modo de desarrollo:
 
-npm run dev
+`npm run dev`
 
 
 4. Abre tu navegador y visita `http://localhost:3000` para ver la aplicación en funcionamiento.
